@@ -1,0 +1,31 @@
+			html, body {
+				margin: 1px;
+				padding: 1px;
+				width: 100%;
+				background-color: #F0F8FF;
+				display: block;				
+				font-family: sans-serif;
+			}
+			footer {
+				margin: 0px;
+			}
+			table {
+				width:100%;
+			}
+			table tr {
+				
+			}
+			table tr td {
+				padding: 5px;
+				vertical-align: top;
+			}
+			marquee {
+				height: 75%;
+			}
+			marquee img {
+				width: 25rem;
+				height: 15rem;
+			}			
+			.banner {
+				width : 99%;
+			}
