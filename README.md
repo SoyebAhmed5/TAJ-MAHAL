@@ -1,5 +1,7 @@
 <pre>📌 Project Overview
-This is a static, informative webpage dedicated to the Taj Mahal, built using pure HTML and CSS. The project aims to showcase the beauty, history, and significance of one of the world's most iconic monuments through a clean and visually appealing layout.</pre>
+This is a static, informative webpage dedicated to the Taj Mahal, built using pure HTML and CSS. 
+The project aims to showcase the beauty, history, and significance of one of the world's most
+ iconic monuments through a clean and visually appealing layout.</pre>
 
 <pre>💡 Features:
 📖 Brief History Section of the Taj Mahal
