@@ -18,7 +18,6 @@ most iconic monuments through a clean and visually appealing layout.</p>
 🔗 Navigation Bar for smooth section access</p>
 </br>
 <h2>🛠️ Technologies Used</h2>
-</br>
 <p>
 HTML5 – For webpage structure
 </br>
@@ -26,4 +25,4 @@ CSS3 – For styling and layout
 </br>
 (No JavaScript or external libraries used)</p>
 
-<h3><a href="https://taj-mahal-history.netlify.app/"> Live Link </a></h3>
+<h3><button href="https://taj-mahal-history.netlify.app/"> Live Link </button></h3>
