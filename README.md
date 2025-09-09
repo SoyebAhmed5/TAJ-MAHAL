@@ -4,7 +4,7 @@ CSS. <p>
 <p>
 The project aims to showcase the beauty, history, and significance of one of the world's 
 most iconic monuments through a clean and visually appealing layout.</p>
-</br></br>
+</br>
 <h2>💡 Features:</h2>
 <p>
 📖 Brief History Section of the Taj Mahal
@@ -16,14 +16,14 @@ most iconic monuments through a clean and visually appealing layout.</p>
 🧭 Responsive Design (basic layout support for different screen sizes)
 </br>
 🔗 Navigation Bar for smooth section access</p>
-</br></br>
-<p>🛠️ Technologies Used
 </br>
+<h2>🛠️ Technologies Used</h2>
+</br>
+<p>
 HTML5 – For webpage structure
 </br>
-</br>
-
 CSS3 – For styling and layout
+</br>
 (No JavaScript or external libraries used)</p>
 
 <h3><a href="https://taj-mahal-history.netlify.app/"> Live Link </a></h3>
