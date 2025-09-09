@@ -25,4 +25,4 @@ CSS3 – For styling and layout
 </br>
 (No JavaScript or external libraries used)</p>
 
-<h3><button><a href="https://taj-mahal-history.netlify.app/"> Live Link </a></button></h3>
+<h3><a href="https://taj-mahal-history.netlify.app/"> Live Link </a></h3>
